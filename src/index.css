@@ -41,7 +41,7 @@ body{
 
 .container{
  width: var(--container-width-lg);
- margin: 0,auto;   
+ margin: 0 auto;   
 }
 h1,h2,h3,h4,h5{
     font-weight: 500;
@@ -51,6 +51,7 @@ h1{
 }
 section{
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section >h2,section >h5{
