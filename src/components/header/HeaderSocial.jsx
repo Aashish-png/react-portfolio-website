@@ -5,9 +5,9 @@ import {BsDribbble} from 'react-icons/bs'
 const HeaderSocial = () => {
   return (
     <div className='header__socials'>
-        <a href="https://linkedin.com" target="__blank"><BsLinkedin/></a>
-        <a href="https://github.com" target="__blank"><BsGithub/></a>
-        <a href="https://dirbble.com" target="__blank"><BsDribbble/></a>
+        <a href="https://www.linkedin.com/in/aashish-sarva-3101a51b7/" target="__blank"><BsLinkedin/></a>
+        <a href="https://github.com/Aashish-png" target="__blank"><BsGithub/></a>
+        {/* <a href="https://dirbble.com" target="__blank"><BsDribbble/></a> */}
     </div>
   )
 }
